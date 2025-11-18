@@ -1,0 +1,27 @@
+{
+  "project_key": "generative_ai_app",
+  "name": "생성 AI 애플리케이션 개발",
+  "description": "생성 AI를 이용한 실제 애플리케이션 개발",
+  "required_modules": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "duration_weeks": 6,
+  "difficulty": "Advanced",
+  "created_at": "2025-11-18T16:59:51.225495",
+  "status": "available",
+  "objectives": [
+    "생성 모델 이해 및 구현",
+    "이미지 생성 애플리케이션",
+    "텍스트 생성 애플리케이션",
+    "배포 및 최적화"
+  ]
+}

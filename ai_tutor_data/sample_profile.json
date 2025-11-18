@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "total_modules": 30,
+    "average_score": 83.16666666666667,
+    "learning_style": "visual",
+    "strengths": [],
+    "weaknesses": [],
+    "recommended_approach": [
+      "📊 시각적 다이어그램을 활용한 학습",
+      "🎬 비디오 튜토리얼 시청",
+      "📈 그래프와 차트를 통한 이해"
+    ],
+    "speed": "moderate"
+  },
+  "plan": {
+    "learner_type": "visual",
+    "estimated_weeks_to_completion": 35.0,
+    "weekly_modules": 2,
+    "weekly_hours": 6,
+    "recommended_resources": [
+      "시각적 자료",
+      "다이어그램",
+      "그래프"
+    ],
+    "focus_areas": [],
+    "quick_wins": [],
+    "milestone_goals": [
+      {
+        "target": 50,
+        "label": "Intermediate",
+        "reward": "Silver Badge"
+      },
+      {
+        "target": 75,
+        "label": "Advanced",
+        "reward": "Gold Badge"
+      },
+      {
+        "target": 100,
+        "label": "Master",
+        "reward": "Master Badge"
+      }
+    ]
+  }
+}

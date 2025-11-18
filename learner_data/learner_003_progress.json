@@ -1,0 +1,333 @@
+{
+  "learner_id": "learner_003",
+  "created_at": "2025-11-18T16:59:51.067339",
+  "modules_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "modules_in_progress": [
+    51,
+    52
+  ],
+  "exercises_completed": {
+    "1": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067343",
+      "status": "completed"
+    },
+    "2": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067345",
+      "status": "completed"
+    },
+    "3": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067346",
+      "status": "completed"
+    },
+    "4": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067348",
+      "status": "completed"
+    },
+    "5": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067351",
+      "status": "completed"
+    },
+    "6": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067352",
+      "status": "completed"
+    },
+    "7": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067355",
+      "status": "completed"
+    },
+    "8": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067356",
+      "status": "completed"
+    },
+    "9": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067357",
+      "status": "completed"
+    },
+    "10": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067359",
+      "status": "completed"
+    },
+    "11": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067360",
+      "status": "completed"
+    },
+    "12": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067362",
+      "status": "completed"
+    },
+    "13": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067366",
+      "status": "completed"
+    },
+    "14": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067367",
+      "status": "completed"
+    },
+    "15": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067368",
+      "status": "completed"
+    },
+    "16": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067369",
+      "status": "completed"
+    },
+    "17": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067370",
+      "status": "completed"
+    },
+    "18": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067371",
+      "status": "completed"
+    },
+    "19": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067374",
+      "status": "completed"
+    },
+    "20": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067375",
+      "status": "completed"
+    },
+    "21": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067377",
+      "status": "completed"
+    },
+    "22": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067378",
+      "status": "completed"
+    },
+    "23": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067379",
+      "status": "completed"
+    },
+    "24": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067380",
+      "status": "completed"
+    },
+    "25": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067381",
+      "status": "completed"
+    },
+    "26": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067382",
+      "status": "completed"
+    },
+    "27": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067383",
+      "status": "completed"
+    },
+    "28": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067385",
+      "status": "completed"
+    },
+    "29": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067386",
+      "status": "completed"
+    },
+    "30": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067387",
+      "status": "completed"
+    },
+    "31": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067388",
+      "status": "completed"
+    },
+    "32": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067389",
+      "status": "completed"
+    },
+    "33": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067390",
+      "status": "completed"
+    },
+    "34": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067391",
+      "status": "completed"
+    },
+    "35": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067393",
+      "status": "completed"
+    },
+    "36": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067394",
+      "status": "completed"
+    },
+    "37": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067395",
+      "status": "completed"
+    },
+    "38": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067490",
+      "status": "completed"
+    },
+    "39": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067502",
+      "status": "completed"
+    },
+    "40": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067503",
+      "status": "completed"
+    },
+    "41": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067505",
+      "status": "completed"
+    },
+    "42": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067507",
+      "status": "completed"
+    },
+    "43": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067508",
+      "status": "completed"
+    },
+    "44": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067516",
+      "status": "completed"
+    },
+    "45": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067517",
+      "status": "completed"
+    },
+    "46": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067519",
+      "status": "completed"
+    },
+    "47": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067520",
+      "status": "completed"
+    },
+    "48": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067522",
+      "status": "completed"
+    },
+    "49": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067523",
+      "status": "completed"
+    },
+    "50": {
+      "score": 88,
+      "timestamp": "2025-11-18T16:59:51.067525",
+      "status": "completed"
+    }
+  },
+  "projects_completed": [
+    {
+      "name": "Tier1",
+      "completed_at": "2025-11-18T16:59:51.067530"
+    },
+    {
+      "name": "Tier2",
+      "completed_at": "2025-11-18T16:59:51.067532"
+    },
+    {
+      "name": "Tier3",
+      "completed_at": "2025-11-18T16:59:51.067534"
+    }
+  ],
+  "total_hours": 150,
+  "streak_days": 0,
+  "badges": [
+    "halfway",
+    "project_master"
+  ],
+  "level": 3
+}

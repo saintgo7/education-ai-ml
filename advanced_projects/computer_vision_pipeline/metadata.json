@@ -1,0 +1,32 @@
+{
+  "project_key": "computer_vision_pipeline",
+  "name": "컴퓨터 비전 통합 파이프라인",
+  "description": "이미지 처리부터 고급 검출까지 완전한 CV 파이프라인",
+  "required_modules": [
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "duration_weeks": 7,
+  "difficulty": "Advanced",
+  "created_at": "2025-11-18T16:59:51.223296",
+  "status": "available",
+  "objectives": [
+    "이미지 데이터 처리",
+    "객체 탐지 모델 구축",
+    "이미지 분할 적용",
+    "실시간 처리 구현"
+  ]
+}

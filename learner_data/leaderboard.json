@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "learner_id": "learner_003",
+    "level": 3,
+    "modules_completed": 50,
+    "badges": 2,
+    "hours": 150,
+    "completion_percentage": 50.0
+  },
+  {
+    "rank": 2,
+    "learner_id": "learner_002",
+    "level": 2,
+    "modules_completed": 25,
+    "badges": 1,
+    "hours": 75,
+    "completion_percentage": 25.0
+  },
+  {
+    "rank": 3,
+    "learner_id": "learner_001",
+    "level": 1,
+    "modules_completed": 5,
+    "badges": 0,
+    "hours": 15,
+    "completion_percentage": 5.0
+  }
+]

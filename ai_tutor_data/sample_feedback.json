@@ -1,0 +1,29 @@
+{
+  "module_id": 15,
+  "timestamp": "2025-11-18T16:59:51.142545",
+  "overall_score": 75,
+  "rating": "fair",
+  "feedback": "평범한 성과입니다. 📚 일부 개념에 대해 더 공부가 필요합니다. 복습 자료를 참고하세요.",
+  "errors_found": [
+    {
+      "question_id": 3,
+      "type": "partial_answer",
+      "explanation": "질문 3에서 개선이 필요합니다.",
+      "suggestion": "관련 개념을 다시 학습하는 것을 추천합니다."
+    },
+    {
+      "question_id": 4,
+      "type": "wrong_answer",
+      "explanation": "질문 4에서 개선이 필요합니다.",
+      "suggestion": "관련 개념을 다시 학습하는 것을 추천합니다."
+    }
+  ],
+  "recommendations": [
+    "📖 Module 15의 심화 자료를 살펴보세요.",
+    "💡 개념을 더 깊이 있게 이해하기 위해 예제를 분석해보세요."
+  ],
+  "next_steps": [
+    "복습: Module 15 반복 학습",
+    "💬 질문이 있으시면 커뮤니티에 작성하세요."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": "generative_ai_app",
+  "created_at": "2025-11-18T16:59:51.225836",
+  "milestones": [
+    {
+      "week": 1,
+      "task": "프로젝트 계획 및 데이터 수집",
+      "completed": false
+    },
+    {
+      "week": 2,
+      "task": "데이터 탐색 및 분석",
+      "completed": false
+    },
+    {
+      "week": 3,
+      "task": "모델 개발 (1단계)",
+      "completed": false
+    },
+    {
+      "week": 4,
+      "task": "모델 개발 (2단계)",
+      "completed": false
+    },
+    {
+      "week": 5,
+      "task": "모델 평가 및 최적화",
+      "completed": false
+    },
+    {
+      "week": 6,
+      "task": "최종 보고서 및 배포",
+      "completed": false
+    }
+  ]
+}
