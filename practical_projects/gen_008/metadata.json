@@ -1,0 +1,30 @@
+{
+  "project_key": "gen_008",
+  "name": "스타일 변환 (CycleGAN)",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Image Pairs",
+  "modules_required": [
+    94,
+    100
+  ],
+  "objectives": [
+    "짝이 없는 이미지 변환",
+    "도메인 이동",
+    "예술 스타일 전이",
+    "응용"
+  ],
+  "skills": [
+    "CycleGAN",
+    "Image-to-Image",
+    "Style Transfer"
+  ],
+  "deliverables": [
+    "CycleGAN Model",
+    "Style-transferred Images",
+    "Demo"
+  ],
+  "created_at": "2025-11-18T17:13:25.614690",
+  "status": "available"
+}

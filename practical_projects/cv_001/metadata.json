@@ -1,0 +1,31 @@
+{
+  "project_key": "cv_001",
+  "name": "필기 숫자 인식 (MNIST)",
+  "category": "Computer Vision",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "MNIST",
+  "modules_required": [
+    35,
+    36,
+    37
+  ],
+  "objectives": [
+    "CNN 기본 구조",
+    "이미지 분류",
+    "모델 평가",
+    "배포 준비"
+  ],
+  "skills": [
+    "CNN",
+    "Image Classification",
+    "Deep Learning"
+  ],
+  "deliverables": [
+    "Trained Model",
+    "Evaluation Report",
+    "Demo App"
+  ],
+  "created_at": "2025-11-18T17:13:25.578309",
+  "status": "available"
+}

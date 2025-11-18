@@ -1,0 +1,30 @@
+{
+  "project_key": "rl_001",
+  "name": "Flappy Bird 학습",
+  "category": "Reinforcement Learning",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Game Environment",
+  "modules_required": [
+    83,
+    84
+  ],
+  "objectives": [
+    "게임 환경 설정",
+    "DQN 구현",
+    "에이전트 학습",
+    "성능 시각화"
+  ],
+  "skills": [
+    "DQN",
+    "Game AI",
+    "Neural Networks"
+  ],
+  "deliverables": [
+    "Trained Agent",
+    "Performance Graph",
+    "Demo Video"
+  ],
+  "created_at": "2025-11-18T17:13:25.600220",
+  "status": "available"
+}

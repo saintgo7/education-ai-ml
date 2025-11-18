@@ -1,0 +1,31 @@
+{
+  "project_key": "nlp_002",
+  "name": "텍스트 분류 (뉴스)",
+  "category": "NLP",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "News Articles",
+  "modules_required": [
+    51,
+    52,
+    58
+  ],
+  "objectives": [
+    "뉴스 분류",
+    "카테고리 예측",
+    "관련 기사 추천",
+    "자동화 파이프라인"
+  ],
+  "skills": [
+    "Text Classification",
+    "NLP",
+    "News Analytics"
+  ],
+  "deliverables": [
+    "Classification Model",
+    "News App",
+    "Automation Script"
+  ],
+  "created_at": "2025-11-18T17:13:25.590856",
+  "status": "available"
+}

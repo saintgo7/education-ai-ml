@@ -1,0 +1,30 @@
+{
+  "project_key": "cv_010",
+  "name": "스타일 전이 (Neural Style Transfer)",
+  "category": "Computer Vision",
+  "difficulty": "Intermediate",
+  "duration_weeks": 2,
+  "dataset": "Image Collections",
+  "modules_required": [
+    100,
+    39
+  ],
+  "objectives": [
+    "스타일 분리",
+    "예술적 이미지 생성",
+    "실시간 스타일 전이",
+    "모바일 배포"
+  ],
+  "skills": [
+    "Style Transfer",
+    "CNN",
+    "Artistic AI"
+  ],
+  "deliverables": [
+    "Style System",
+    "Mobile App",
+    "Gallery"
+  ],
+  "created_at": "2025-11-18T17:13:25.587158",
+  "status": "available"
+}

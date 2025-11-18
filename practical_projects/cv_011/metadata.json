@@ -1,0 +1,29 @@
+{
+  "project_key": "cv_011",
+  "name": "배경 제거 (Semantic Segmentation)",
+  "category": "Computer Vision",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Background Dataset",
+  "modules_required": [
+    73,
+    40
+  ],
+  "objectives": [
+    "이미지 분할",
+    "배경 제거",
+    "사람 추출",
+    "영상 편집 도구"
+  ],
+  "skills": [
+    "Segmentation",
+    "Image Processing"
+  ],
+  "deliverables": [
+    "Removal System",
+    "Photo Editor",
+    "Demo"
+  ],
+  "created_at": "2025-11-18T17:13:25.588265",
+  "status": "available"
+}

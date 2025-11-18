@@ -1,0 +1,31 @@
+{
+  "project_key": "nlp_004",
+  "name": "기계 번역 (영한)",
+  "category": "NLP",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Parallel Corpora",
+  "modules_required": [
+    59,
+    44,
+    46
+  ],
+  "objectives": [
+    "번역 모델 구축",
+    "언어 쌍 처리",
+    "품질 평가 (BLEU)",
+    "배포"
+  ],
+  "skills": [
+    "Machine Translation",
+    "Seq2Seq",
+    "Transformer"
+  ],
+  "deliverables": [
+    "Translation Model",
+    "Evaluation Report",
+    "Translation App"
+  ],
+  "created_at": "2025-11-18T17:13:25.592656",
+  "status": "available"
+}

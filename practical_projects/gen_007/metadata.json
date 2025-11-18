@@ -1,0 +1,30 @@
+{
+  "project_key": "gen_007",
+  "name": "이미지 복원 (Inpainting)",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Images",
+  "modules_required": [
+    97,
+    99
+  ],
+  "objectives": [
+    "손상된 이미지 복원",
+    "결측 영역 채우기",
+    "사진 편집",
+    "문화유산 보존"
+  ],
+  "skills": [
+    "Image Inpainting",
+    "Generative Models",
+    "Image Restoration"
+  ],
+  "deliverables": [
+    "Inpainting System",
+    "Restored Images",
+    "Photo Editor"
+  ],
+  "created_at": "2025-11-18T17:13:25.613641",
+  "status": "available"
+}

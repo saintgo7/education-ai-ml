@@ -1,0 +1,30 @@
+{
+  "project_key": "cv_008",
+  "name": "3D 물체 인식",
+  "category": "Computer Vision",
+  "difficulty": "Advanced",
+  "duration_weeks": 4,
+  "dataset": "3D Models",
+  "modules_required": [
+    75,
+    39
+  ],
+  "objectives": [
+    "3D 데이터 처리",
+    "다중 뷰 학습",
+    "물체 분류",
+    "증강 현실 적용"
+  ],
+  "skills": [
+    "3D Vision",
+    "Point Cloud",
+    "AR/VR"
+  ],
+  "deliverables": [
+    "3D Recognition System",
+    "AR App",
+    "Technical Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.585172",
+  "status": "available"
+}

@@ -1,0 +1,30 @@
+{
+  "project_key": "nlp_003",
+  "name": "개체명 인식 (기사)",
+  "category": "NLP",
+  "difficulty": "Intermediate",
+  "duration_weeks": 2,
+  "dataset": "News Articles",
+  "modules_required": [
+    56,
+    52
+  ],
+  "objectives": [
+    "사람/조직/장소 인식",
+    "정보 추출",
+    "지식 그래프 구축",
+    "질의응답"
+  ],
+  "skills": [
+    "NER",
+    "Information Extraction",
+    "Knowledge Graphs"
+  ],
+  "deliverables": [
+    "NER Model",
+    "Knowledge Graph",
+    "QA System"
+  ],
+  "created_at": "2025-11-18T17:13:25.591714",
+  "status": "available"
+}

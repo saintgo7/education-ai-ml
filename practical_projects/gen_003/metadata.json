@@ -1,0 +1,30 @@
+{
+  "project_key": "gen_003",
+  "name": "텍스트 생성 (GPT)",
+  "category": "Generative AI",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Text Corpus",
+  "modules_required": [
+    48,
+    61
+  ],
+  "objectives": [
+    "언어 모델 학습",
+    "텍스트 생성",
+    "스타일 제어",
+    "응용 개발"
+  ],
+  "skills": [
+    "Language Models",
+    "Text Generation",
+    "Transformer"
+  ],
+  "deliverables": [
+    "Text Generator",
+    "Generated Samples",
+    "Application"
+  ],
+  "created_at": "2025-11-18T17:13:25.609870",
+  "status": "available"
+}

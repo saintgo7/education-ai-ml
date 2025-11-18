@@ -1,0 +1,31 @@
+{
+  "project_key": "nlp_005",
+  "name": "질문 답변 시스템",
+  "category": "NLP",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "SQuAD",
+  "modules_required": [
+    60,
+    46,
+    47
+  ],
+  "objectives": [
+    "독해 이해",
+    "답변 추출",
+    "문서 검색",
+    "완전한 QA 시스템"
+  ],
+  "skills": [
+    "Question Answering",
+    "Reading Comprehension",
+    "BERT"
+  ],
+  "deliverables": [
+    "QA System",
+    "Demo App",
+    "Evaluation Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.593639",
+  "status": "available"
+}

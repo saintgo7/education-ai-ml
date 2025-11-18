@@ -1,0 +1,30 @@
+{
+  "project_key": "rl_004",
+  "name": "포트폴리오 최적화",
+  "category": "Reinforcement Learning",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "dataset": "Stock Market Data",
+  "modules_required": [
+    85,
+    86
+  ],
+  "objectives": [
+    "거래 환경 구축",
+    "포트폴리오 관리",
+    "위험 조정",
+    "실제 거래 적용"
+  ],
+  "skills": [
+    "Trading RL",
+    "Portfolio Optimization",
+    "Financial Markets"
+  ],
+  "deliverables": [
+    "Trading Agent",
+    "Backtest Report",
+    "Risk Analysis"
+  ],
+  "created_at": "2025-11-18T17:13:25.603146",
+  "status": "available"
+}

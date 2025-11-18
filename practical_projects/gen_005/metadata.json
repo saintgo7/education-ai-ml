@@ -1,0 +1,29 @@
+{
+  "project_key": "gen_005",
+  "name": "확산 모델 (Text-to-Image)",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Image Captions",
+  "modules_required": [
+    99
+  ],
+  "objectives": [
+    "텍스트 기반 이미지 생성",
+    "품질 제어",
+    "빠른 생성",
+    "응용"
+  ],
+  "skills": [
+    "Diffusion Models",
+    "Text-to-Image",
+    "Image Synthesis"
+  ],
+  "deliverables": [
+    "Text-to-Image System",
+    "Generated Images",
+    "Demo"
+  ],
+  "created_at": "2025-11-18T17:13:25.611759",
+  "status": "available"
+}

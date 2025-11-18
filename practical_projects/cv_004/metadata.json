@@ -1,0 +1,30 @@
+{
+  "project_key": "cv_004",
+  "name": "이미지 분할 (의료)",
+  "category": "Computer Vision",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "dataset": "Medical Images",
+  "modules_required": [
+    72,
+    73
+  ],
+  "objectives": [
+    "의료 이미지 분할",
+    "종양 탐지",
+    "정확도 평가",
+    "의료 표준 준수"
+  ],
+  "skills": [
+    "Semantic Segmentation",
+    "Medical Imaging",
+    "U-Net"
+  ],
+  "deliverables": [
+    "Segmentation Model",
+    "Clinical Report",
+    "Validation"
+  ],
+  "created_at": "2025-11-18T17:13:25.581467",
+  "status": "available"
+}

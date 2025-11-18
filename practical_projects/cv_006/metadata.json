@@ -1,0 +1,30 @@
+{
+  "project_key": "cv_006",
+  "name": "포즈 추정",
+  "category": "Computer Vision",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "COCO Pose",
+  "modules_required": [
+    79,
+    41
+  ],
+  "objectives": [
+    "신체 자세 추정",
+    "관절 감지",
+    "운동 분석",
+    "피트니스 앱 개발"
+  ],
+  "skills": [
+    "Pose Estimation",
+    "Keypoint Detection",
+    "Body Analytics"
+  ],
+  "deliverables": [
+    "Pose Model",
+    "Fitness App",
+    "Analysis Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.583332",
+  "status": "available"
+}

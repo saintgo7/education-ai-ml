@@ -1,0 +1,33 @@
+{
+  "project_key": "ds_001",
+  "name": "주택 가격 예측",
+  "category": "Data Science",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "House Prices",
+  "modules_required": [
+    1,
+    6,
+    7,
+    11,
+    12
+  ],
+  "objectives": [
+    "데이터 탐색 및 정제",
+    "특성 엔지니어링",
+    "회귀 모델 구축",
+    "성능 평가"
+  ],
+  "skills": [
+    "EDA",
+    "Regression",
+    "Feature Engineering"
+  ],
+  "deliverables": [
+    "EDA Report",
+    "Model Code",
+    "Predictions"
+  ],
+  "created_at": "2025-11-18T17:13:25.567254",
+  "status": "available"
+}

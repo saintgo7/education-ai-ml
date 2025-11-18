@@ -1,0 +1,29 @@
+{
+  "project_key": "rl_008",
+  "name": "역강화학습 (모방 학습)",
+  "category": "Reinforcement Learning",
+  "difficulty": "Advanced",
+  "duration_weeks": 3,
+  "dataset": "Expert Demonstrations",
+  "modules_required": [
+    90
+  ],
+  "objectives": [
+    "전문가 행동 학습",
+    "보상 함수 역추론",
+    "정책 모방",
+    "미세 조정"
+  ],
+  "skills": [
+    "Inverse RL",
+    "Imitation Learning",
+    "Reward Learning"
+  ],
+  "deliverables": [
+    "Learned Policy",
+    "Reward Function",
+    "Analysis"
+  ],
+  "created_at": "2025-11-18T17:13:25.607066",
+  "status": "available"
+}

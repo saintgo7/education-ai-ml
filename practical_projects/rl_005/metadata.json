@@ -1,0 +1,31 @@
+{
+  "project_key": "rl_005",
+  "name": "네비게이션 (경로 찾기)",
+  "category": "Reinforcement Learning",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Maze/Grid World",
+  "modules_required": [
+    81,
+    82,
+    83
+  ],
+  "objectives": [
+    "경로 찾기",
+    "미로 해결",
+    "최적 경로",
+    "알고리즘 비교"
+  ],
+  "skills": [
+    "Q-Learning",
+    "Navigation",
+    "Path Planning"
+  ],
+  "deliverables": [
+    "Navigation System",
+    "Algorithm Comparison",
+    "Visualization"
+  ],
+  "created_at": "2025-11-18T17:13:25.604118",
+  "status": "available"
+}

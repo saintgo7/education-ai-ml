@@ -1,0 +1,29 @@
+{
+  "project_key": "gen_004",
+  "name": "변분 오토인코더 (VAE)",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 2,
+  "dataset": "Image Dataset",
+  "modules_required": [
+    96
+  ],
+  "objectives": [
+    "VAE 구조 이해",
+    "이미지 인코딩",
+    "새로운 이미지 생성",
+    "잠재 공간 분석"
+  ],
+  "skills": [
+    "VAE",
+    "Autoencoders",
+    "Latent Space"
+  ],
+  "deliverables": [
+    "VAE Model",
+    "Latent Space Visualization",
+    "Analysis"
+  ],
+  "created_at": "2025-11-18T17:13:25.610745",
+  "status": "available"
+}

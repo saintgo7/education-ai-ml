@@ -1,0 +1,31 @@
+{
+  "project_key": "ds_005",
+  "name": "마켓 바스킷 분석",
+  "category": "Data Science",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Transaction Data",
+  "modules_required": [
+    22,
+    23,
+    24
+  ],
+  "objectives": [
+    "연관 규칙 학습",
+    "상품 추천",
+    "판매 전략 수립",
+    "수익 시뮬레이션"
+  ],
+  "skills": [
+    "Association Rules",
+    "Clustering",
+    "Business Analytics"
+  ],
+  "deliverables": [
+    "Rules Report",
+    "Recommendations",
+    "ROI Analysis"
+  ],
+  "created_at": "2025-11-18T17:13:25.571346",
+  "status": "available"
+}

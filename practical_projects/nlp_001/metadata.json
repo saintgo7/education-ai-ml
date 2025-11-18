@@ -1,0 +1,31 @@
+{
+  "project_key": "nlp_001",
+  "name": "감정 분석 (트위터)",
+  "category": "NLP",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Twitter Data",
+  "modules_required": [
+    51,
+    52,
+    57
+  ],
+  "objectives": [
+    "트위터 데이터 수집",
+    "감정 분석",
+    "트렌드 분석",
+    "대시보드 생성"
+  ],
+  "skills": [
+    "NLP",
+    "Sentiment Analysis",
+    "Social Media Analytics"
+  ],
+  "deliverables": [
+    "Sentiment Model",
+    "Dashboard",
+    "Trend Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.589994",
+  "status": "available"
+}

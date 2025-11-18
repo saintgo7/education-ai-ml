@@ -1,0 +1,32 @@
+{
+  "project_key": "ds_010",
+  "name": "판매 예측 (다변량)",
+  "category": "Data Science",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Sales Data",
+  "modules_required": [
+    11,
+    12,
+    18,
+    19
+  ],
+  "objectives": [
+    "계절성 분석",
+    "다변량 회귀",
+    "앙상블 모델",
+    "예산 책정"
+  ],
+  "skills": [
+    "Regression",
+    "Ensemble Methods",
+    "Forecasting"
+  ],
+  "deliverables": [
+    "Forecast Model",
+    "Sales Budget",
+    "Strategy Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.577222",
+  "status": "available"
+}

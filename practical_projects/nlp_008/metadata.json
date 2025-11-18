@@ -1,0 +1,32 @@
+{
+  "project_key": "nlp_008",
+  "name": "스팸 탐지",
+  "category": "NLP",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "SMS/Email Spam",
+  "modules_required": [
+    51,
+    52,
+    58,
+    20
+  ],
+  "objectives": [
+    "스팸 분류",
+    "필터링 시스템",
+    "거짓 양성 최소화",
+    "배포"
+  ],
+  "skills": [
+    "Text Classification",
+    "Spam Detection",
+    "Naive Bayes"
+  ],
+  "deliverables": [
+    "Spam Filter",
+    "Evaluation Report",
+    "Deployment Guide"
+  ],
+  "created_at": "2025-11-18T17:13:25.596638",
+  "status": "available"
+}

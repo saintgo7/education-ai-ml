@@ -1,0 +1,31 @@
+{
+  "project_key": "ds_007",
+  "name": "고객 세분화 (RFM 분석)",
+  "category": "Data Science",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Customer Transactions",
+  "modules_required": [
+    22,
+    23,
+    10
+  ],
+  "objectives": [
+    "RFM 메트릭 계산",
+    "고객 세분화",
+    "타겟 마케팅",
+    "가치 평가"
+  ],
+  "skills": [
+    "Segmentation",
+    "RFM Analysis",
+    "Marketing Analytics"
+  ],
+  "deliverables": [
+    "Segmentation Model",
+    "Marketing Strategy",
+    "Dashboard"
+  ],
+  "created_at": "2025-11-18T17:13:25.573463",
+  "status": "available"
+}

@@ -1,0 +1,610 @@
+{
+  "total_projects": 50,
+  "created_at": "2025-11-18T17:13:25.617528",
+  "categories": {
+    "Data Science": 10,
+    "Computer Vision": 12,
+    "NLP": 10,
+    "Reinforcement Learning": 8,
+    "Generative AI": 10
+  },
+  "projects": [
+    {
+      "key": "ds_001",
+      "name": "주택 가격 예측",
+      "category": "Data Science",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "EDA",
+        "Regression",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "key": "ds_002",
+      "name": "고객 이탈 예측",
+      "category": "Data Science",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Classification",
+        "Imbalanced Data",
+        "Metrics"
+      ]
+    },
+    {
+      "key": "ds_003",
+      "name": "신용 신청 승인 분류",
+      "category": "Data Science",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Preprocessing",
+        "Classification",
+        "Interpretability"
+      ]
+    },
+    {
+      "key": "ds_004",
+      "name": "주식 가격 시계열 분석",
+      "category": "Data Science",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Time Series",
+        "ARIMA",
+        "Technical Analysis"
+      ]
+    },
+    {
+      "key": "ds_005",
+      "name": "마켓 바스킷 분석",
+      "category": "Data Science",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Association Rules",
+        "Clustering",
+        "Business Analytics"
+      ]
+    },
+    {
+      "key": "ds_006",
+      "name": "이상 탐지 시스템",
+      "category": "Data Science",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Anomaly Detection",
+        "Unsupervised Learning"
+      ]
+    },
+    {
+      "key": "ds_007",
+      "name": "고객 세분화 (RFM 분석)",
+      "category": "Data Science",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Segmentation",
+        "RFM Analysis",
+        "Marketing Analytics"
+      ]
+    },
+    {
+      "key": "ds_008",
+      "name": "센티먼트 분석 (리뷰 데이터)",
+      "category": "Data Science",
+      "difficulty": "Intermediate",
+      "duration_weeks": 2,
+      "skills": [
+        "NLP",
+        "Sentiment Analysis",
+        "Text Mining"
+      ]
+    },
+    {
+      "key": "ds_009",
+      "name": "직원 이탈 예측",
+      "category": "Data Science",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Classification",
+        "HR Analytics",
+        "Business Strategy"
+      ]
+    },
+    {
+      "key": "ds_010",
+      "name": "판매 예측 (다변량)",
+      "category": "Data Science",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Regression",
+        "Ensemble Methods",
+        "Forecasting"
+      ]
+    },
+    {
+      "key": "cv_001",
+      "name": "필기 숫자 인식 (MNIST)",
+      "category": "Computer Vision",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "CNN",
+        "Image Classification",
+        "Deep Learning"
+      ]
+    },
+    {
+      "key": "cv_002",
+      "name": "개와 고양이 분류",
+      "category": "Computer Vision",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Transfer Learning",
+        "Fine-tuning",
+        "Data Augmentation"
+      ]
+    },
+    {
+      "key": "cv_003",
+      "name": "객체 탐지 (자동차)",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "YOLO",
+        "Object Detection",
+        "Real-time Processing"
+      ]
+    },
+    {
+      "key": "cv_004",
+      "name": "이미지 분할 (의료)",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "Semantic Segmentation",
+        "Medical Imaging",
+        "U-Net"
+      ]
+    },
+    {
+      "key": "cv_005",
+      "name": "얼굴 인식 시스템",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Face Detection",
+        "Face Recognition",
+        "Security"
+      ]
+    },
+    {
+      "key": "cv_006",
+      "name": "포즈 추정",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Pose Estimation",
+        "Keypoint Detection",
+        "Body Analytics"
+      ]
+    },
+    {
+      "key": "cv_007",
+      "name": "손글씨 텍스트 인식 (OCR)",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "OCR",
+        "RNN",
+        "LSTM"
+      ]
+    },
+    {
+      "key": "cv_008",
+      "name": "3D 물체 인식",
+      "category": "Computer Vision",
+      "difficulty": "Advanced",
+      "duration_weeks": 4,
+      "skills": [
+        "3D Vision",
+        "Point Cloud",
+        "AR/VR"
+      ]
+    },
+    {
+      "key": "cv_009",
+      "name": "비디오 분류",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "3D CNN",
+        "Action Recognition",
+        "Video Analysis"
+      ]
+    },
+    {
+      "key": "cv_010",
+      "name": "스타일 전이 (Neural Style Transfer)",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 2,
+      "skills": [
+        "Style Transfer",
+        "CNN",
+        "Artistic AI"
+      ]
+    },
+    {
+      "key": "cv_011",
+      "name": "배경 제거 (Semantic Segmentation)",
+      "category": "Computer Vision",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Segmentation",
+        "Image Processing"
+      ]
+    },
+    {
+      "key": "cv_012",
+      "name": "이상 탐지 (영상)",
+      "category": "Computer Vision",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Video Analysis",
+        "Anomaly Detection",
+        "Surveillance"
+      ]
+    },
+    {
+      "key": "nlp_001",
+      "name": "감정 분석 (트위터)",
+      "category": "NLP",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "NLP",
+        "Sentiment Analysis",
+        "Social Media Analytics"
+      ]
+    },
+    {
+      "key": "nlp_002",
+      "name": "텍스트 분류 (뉴스)",
+      "category": "NLP",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Text Classification",
+        "NLP",
+        "News Analytics"
+      ]
+    },
+    {
+      "key": "nlp_003",
+      "name": "개체명 인식 (기사)",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 2,
+      "skills": [
+        "NER",
+        "Information Extraction",
+        "Knowledge Graphs"
+      ]
+    },
+    {
+      "key": "nlp_004",
+      "name": "기계 번역 (영한)",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Machine Translation",
+        "Seq2Seq",
+        "Transformer"
+      ]
+    },
+    {
+      "key": "nlp_005",
+      "name": "질문 답변 시스템",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Question Answering",
+        "Reading Comprehension",
+        "BERT"
+      ]
+    },
+    {
+      "key": "nlp_006",
+      "name": "텍스트 요약",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Text Summarization",
+        "Seq2Seq",
+        "Evaluation Metrics"
+      ]
+    },
+    {
+      "key": "nlp_007",
+      "name": "챗봇 개발",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "Dialogue Systems",
+        "Response Generation",
+        "Chatbots"
+      ]
+    },
+    {
+      "key": "nlp_008",
+      "name": "스팸 탐지",
+      "category": "NLP",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Text Classification",
+        "Spam Detection",
+        "Naive Bayes"
+      ]
+    },
+    {
+      "key": "nlp_009",
+      "name": "이중 언어 감정 분석",
+      "category": "NLP",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Multilingual NLP",
+        "Transfer Learning",
+        "Cross-lingual"
+      ]
+    },
+    {
+      "key": "nlp_010",
+      "name": "프롬프트 기반 문제 해결",
+      "category": "NLP",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Prompt Engineering",
+        "LLM",
+        "Zero-shot Learning"
+      ]
+    },
+    {
+      "key": "rl_001",
+      "name": "Flappy Bird 학습",
+      "category": "Reinforcement Learning",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "DQN",
+        "Game AI",
+        "Neural Networks"
+      ]
+    },
+    {
+      "key": "rl_002",
+      "name": "로봇 팔 제어",
+      "category": "Reinforcement Learning",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Policy Gradient",
+        "Robot Control",
+        "Simulation"
+      ]
+    },
+    {
+      "key": "rl_003",
+      "name": "게임 AI (Atari)",
+      "category": "Reinforcement Learning",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Advanced DQN",
+        "Atari",
+        "Game AI"
+      ]
+    },
+    {
+      "key": "rl_004",
+      "name": "포트폴리오 최적화",
+      "category": "Reinforcement Learning",
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "Trading RL",
+        "Portfolio Optimization",
+        "Financial Markets"
+      ]
+    },
+    {
+      "key": "rl_005",
+      "name": "네비게이션 (경로 찾기)",
+      "category": "Reinforcement Learning",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Q-Learning",
+        "Navigation",
+        "Path Planning"
+      ]
+    },
+    {
+      "key": "rl_006",
+      "name": "멀티 에이전트 협력",
+      "category": "Reinforcement Learning",
+      "difficulty": "Advanced",
+      "duration_weeks": 4,
+      "skills": [
+        "Multi-agent RL",
+        "Cooperation",
+        "Communication"
+      ]
+    },
+    {
+      "key": "rl_007",
+      "name": "드론 비행 제어",
+      "category": "Reinforcement Learning",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Flight Control",
+        "Policy Gradient",
+        "Safety"
+      ]
+    },
+    {
+      "key": "rl_008",
+      "name": "역강화학습 (모방 학습)",
+      "category": "Reinforcement Learning",
+      "difficulty": "Advanced",
+      "duration_weeks": 3,
+      "skills": [
+        "Inverse RL",
+        "Imitation Learning",
+        "Reward Learning"
+      ]
+    },
+    {
+      "key": "gen_001",
+      "name": "이미지 생성 (MNIST GAN)",
+      "category": "Generative AI",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "GAN",
+        "Image Generation",
+        "Discriminator/Generator"
+      ]
+    },
+    {
+      "key": "gen_002",
+      "name": "얼굴 생성 (StyleGAN)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "StyleGAN",
+        "Face Generation",
+        "Style Control"
+      ]
+    },
+    {
+      "key": "gen_003",
+      "name": "텍스트 생성 (GPT)",
+      "category": "Generative AI",
+      "difficulty": "Beginner",
+      "duration_weeks": 2,
+      "skills": [
+        "Language Models",
+        "Text Generation",
+        "Transformer"
+      ]
+    },
+    {
+      "key": "gen_004",
+      "name": "변분 오토인코더 (VAE)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 2,
+      "skills": [
+        "VAE",
+        "Autoencoders",
+        "Latent Space"
+      ]
+    },
+    {
+      "key": "gen_005",
+      "name": "확산 모델 (Text-to-Image)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Diffusion Models",
+        "Text-to-Image",
+        "Image Synthesis"
+      ]
+    },
+    {
+      "key": "gen_006",
+      "name": "조건부 GAN (CGAN)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 2,
+      "skills": [
+        "Conditional GAN",
+        "Controlled Generation"
+      ]
+    },
+    {
+      "key": "gen_007",
+      "name": "이미지 복원 (Inpainting)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Image Inpainting",
+        "Generative Models",
+        "Image Restoration"
+      ]
+    },
+    {
+      "key": "gen_008",
+      "name": "스타일 변환 (CycleGAN)",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "CycleGAN",
+        "Image-to-Image",
+        "Style Transfer"
+      ]
+    },
+    {
+      "key": "gen_009",
+      "name": "음악 생성",
+      "category": "Generative AI",
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Music Generation",
+        "Sequence Models",
+        "Audio Processing"
+      ]
+    },
+    {
+      "key": "gen_010",
+      "name": "비디오 생성/예측",
+      "category": "Generative AI",
+      "difficulty": "Advanced",
+      "duration_weeks": 4,
+      "skills": [
+        "Video Generation",
+        "Temporal Modeling",
+        "Future Prediction"
+      ]
+    }
+  ]
+}

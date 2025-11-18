@@ -1,0 +1,29 @@
+{
+  "project_key": "rl_006",
+  "name": "멀티 에이전트 협력",
+  "category": "Reinforcement Learning",
+  "difficulty": "Advanced",
+  "duration_weeks": 4,
+  "dataset": "Multi-agent Environment",
+  "modules_required": [
+    89
+  ],
+  "objectives": [
+    "다중 에이전트 구성",
+    "에이전트 협력",
+    "통신 학습",
+    "복잡한 작업 해결"
+  ],
+  "skills": [
+    "Multi-agent RL",
+    "Cooperation",
+    "Communication"
+  ],
+  "deliverables": [
+    "Multi-agent System",
+    "Cooperation Analysis",
+    "Results"
+  ],
+  "created_at": "2025-11-18T17:13:25.605132",
+  "status": "available"
+}

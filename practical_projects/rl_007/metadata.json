@@ -1,0 +1,31 @@
+{
+  "project_key": "rl_007",
+  "name": "드론 비행 제어",
+  "category": "Reinforcement Learning",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Drone Simulation",
+  "modules_required": [
+    85,
+    86,
+    87
+  ],
+  "objectives": [
+    "드론 환경 모델링",
+    "비행 제어",
+    "경로 최적화",
+    "안전성 검증"
+  ],
+  "skills": [
+    "Flight Control",
+    "Policy Gradient",
+    "Safety"
+  ],
+  "deliverables": [
+    "Flight Controller",
+    "Safety Report",
+    "Demo"
+  ],
+  "created_at": "2025-11-18T17:13:25.606023",
+  "status": "available"
+}

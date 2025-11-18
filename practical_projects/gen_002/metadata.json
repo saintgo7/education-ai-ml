@@ -1,0 +1,29 @@
+{
+  "project_key": "gen_002",
+  "name": "얼굴 생성 (StyleGAN)",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Face Dataset",
+  "modules_required": [
+    94
+  ],
+  "objectives": [
+    "고품질 얼굴 생성",
+    "스타일 제어",
+    "속성 조작",
+    "응용 개발"
+  ],
+  "skills": [
+    "StyleGAN",
+    "Face Generation",
+    "Style Control"
+  ],
+  "deliverables": [
+    "StyleGAN Model",
+    "Generated Faces",
+    "Attribute Control App"
+  ],
+  "created_at": "2025-11-18T17:13:25.609020",
+  "status": "available"
+}

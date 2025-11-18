@@ -1,0 +1,31 @@
+{
+  "project_key": "ds_006",
+  "name": "이상 탐지 시스템",
+  "category": "Data Science",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Sensor Data",
+  "modules_required": [
+    22,
+    25,
+    26,
+    95
+  ],
+  "objectives": [
+    "이상치 검출",
+    "다변량 분석",
+    "알림 시스템",
+    "근본 원인 분석"
+  ],
+  "skills": [
+    "Anomaly Detection",
+    "Unsupervised Learning"
+  ],
+  "deliverables": [
+    "Detection System",
+    "Alert Rules",
+    "Root Cause Report"
+  ],
+  "created_at": "2025-11-18T17:13:25.572356",
+  "status": "available"
+}

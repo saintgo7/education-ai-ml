@@ -1,0 +1,31 @@
+{
+  "project_key": "ds_002",
+  "name": "고객 이탈 예측",
+  "category": "Data Science",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "dataset": "Customer Churn",
+  "modules_required": [
+    14,
+    16,
+    17
+  ],
+  "objectives": [
+    "불균형 데이터 처리",
+    "분류 모델 비교",
+    "임계값 최적화",
+    "비즈니스 가치 분석"
+  ],
+  "skills": [
+    "Classification",
+    "Imbalanced Data",
+    "Metrics"
+  ],
+  "deliverables": [
+    "Model",
+    "Analysis Report",
+    "Recommendations"
+  ],
+  "created_at": "2025-11-18T17:13:25.568414",
+  "status": "available"
+}

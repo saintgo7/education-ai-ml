@@ -1,0 +1,30 @@
+{
+  "project_key": "rl_003",
+  "name": "게임 AI (Atari)",
+  "category": "Reinforcement Learning",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Atari Games",
+  "modules_required": [
+    84,
+    88
+  ],
+  "objectives": [
+    "Atari 게임 학습",
+    "고급 DQN 기법",
+    "다중 게임 학습",
+    "벤치마킹"
+  ],
+  "skills": [
+    "Advanced DQN",
+    "Atari",
+    "Game AI"
+  ],
+  "deliverables": [
+    "Game-playing Agent",
+    "Benchmark Results",
+    "Analysis"
+  ],
+  "created_at": "2025-11-18T17:13:25.602143",
+  "status": "available"
+}

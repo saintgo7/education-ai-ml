@@ -1,0 +1,30 @@
+{
+  "project_key": "cv_005",
+  "name": "얼굴 인식 시스템",
+  "category": "Computer Vision",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "Face Dataset",
+  "modules_required": [
+    77,
+    78
+  ],
+  "objectives": [
+    "얼굴 탐지",
+    "얼굴 인식",
+    "증명/보안 시스템",
+    "프라이버시 고려"
+  ],
+  "skills": [
+    "Face Detection",
+    "Face Recognition",
+    "Security"
+  ],
+  "deliverables": [
+    "Face System",
+    "Accuracy Report",
+    "Ethics Document"
+  ],
+  "created_at": "2025-11-18T17:13:25.582373",
+  "status": "available"
+}

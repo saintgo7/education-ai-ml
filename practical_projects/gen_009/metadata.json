@@ -1,0 +1,31 @@
+{
+  "project_key": "gen_009",
+  "name": "음악 생성",
+  "category": "Generative AI",
+  "difficulty": "Intermediate",
+  "duration_weeks": 3,
+  "dataset": "MIDI Music",
+  "modules_required": [
+    48,
+    61,
+    97
+  ],
+  "objectives": [
+    "음악 인코딩",
+    "시퀀스 모델링",
+    "음악 생성",
+    "구성 지원"
+  ],
+  "skills": [
+    "Music Generation",
+    "Sequence Models",
+    "Audio Processing"
+  ],
+  "deliverables": [
+    "Music Generator",
+    "Generated Compositions",
+    "Player App"
+  ],
+  "created_at": "2025-11-18T17:13:25.615766",
+  "status": "available"
+}
