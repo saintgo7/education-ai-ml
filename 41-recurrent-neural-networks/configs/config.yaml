@@ -1,0 +1,35 @@
+# Module 41: 순환 신경망
+# Configuration file
+
+module:
+  id: 41
+  name: 순환 신경망
+  english_name: Recurrent Neural Networks
+  topics: 시계열, 메모리, 순환 구조
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score

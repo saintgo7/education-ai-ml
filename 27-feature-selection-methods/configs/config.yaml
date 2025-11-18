@@ -1,0 +1,35 @@
+# Module 27: 특성 선택
+# Configuration file
+
+module:
+  id: 27
+  name: 특성 선택
+  english_name: Feature Selection Methods
+  topics: 필터, 래퍼, 임베디드 방법
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score

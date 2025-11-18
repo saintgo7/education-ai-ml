@@ -1,0 +1,35 @@
+# Module 76: 광학 흐름
+# Configuration file
+
+module:
+  id: 76
+  name: 광학 흐름
+  english_name: Optical Flow
+  topics: 동작 추정, 비디오 분석
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score

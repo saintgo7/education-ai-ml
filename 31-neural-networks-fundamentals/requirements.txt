@@ -1,0 +1,30 @@
+# Module 31: 신경망 기초 (Neural Networks Fundamentals)
+# Dependencies for this module
+
+# Core Data Science
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Machine Learning (일부 모듈만 필요)
+scikit-learn>=1.3.0
+
+# Deep Learning (일부 모듈만 필요)
+torch>=2.0.0
+tensorflow>=2.13.0
+transformers>=4.30.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.0.0
+
+# Jupyter
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+tqdm>=4.65.0

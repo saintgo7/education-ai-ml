@@ -1,0 +1,35 @@
+# Module 86: 행동-비평 방법
+# Configuration file
+
+module:
+  id: 86
+  name: 행동-비평 방법
+  english_name: Actor-Critic Methods
+  topics: 정책+가치, 낮은 분산
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score

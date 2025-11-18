@@ -1,0 +1,35 @@
+# Module 17: 랜덤 포레스트
+# Configuration file
+
+module:
+  id: 17
+  name: 랜덤 포레스트
+  english_name: Random Forests
+  topics: 앙상블, 부트스트래핑, OOB 에러
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score

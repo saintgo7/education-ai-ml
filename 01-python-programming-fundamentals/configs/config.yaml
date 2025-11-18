@@ -1,0 +1,35 @@
+# Module 1: Python 기초
+# Configuration file
+
+module:
+  id: 1
+  name: Python 기초
+  english_name: Python Programming Fundamentals
+  topics: 변수, 데이터 타입, 제어문, 함수
+
+# 학습 관련 설정
+learning:
+  difficulty: intermediate
+  estimated_hours: 5
+  prerequisites: []
+
+# 데이터 설정
+data:
+  source: synthetic
+  size: small
+  format: csv
+
+# 모델 설정
+model:
+  type: example
+  architecture: baseline
+  hyperparameters:
+    learning_rate: 0.001
+    batch_size: 32
+    epochs: 10
+
+# 평가 메트릭
+metrics:
+  - accuracy
+  - loss
+  - f1_score
