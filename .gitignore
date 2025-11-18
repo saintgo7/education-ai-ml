@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+data/raw/
+data/processed/
+data/external/
+
+# Models & Checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.tflite
+checkpoints/
+models/
+saved_models/
+*.safetensors
+
+# Logs
+*.log
+logs/
+runs/
+wandb/
+mlruns/
+.mlflow/
+tensorboard/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# DVC
+.dvc/local
+.dvc/cache
+
+# Airflow
+airflow.db
+airflow.cfg
+airflow-webserver.pid
+
+# Docker
+*.tar
+.dockerignore
+
+# Generated files
+generated_samples/
+outputs/
+results/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Coverage
+.coverage
+htmlcov/
+
+# Distribution / packaging
+.Python
+build/
+*.egg-info/

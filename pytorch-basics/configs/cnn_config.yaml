@@ -1,0 +1,41 @@
+# CNN 모델 설정 파일
+
+# 모델 설정
+model: resnet  # 'simple' 또는 'resnet'
+num_classes: 10
+
+# 학습 설정
+batch_size: 128
+learning_rate: 0.1
+epochs: 50
+num_workers: 4
+
+# 데이터 설정
+data_path: ./data
+save_dir: ../checkpoints
+
+# 옵티마이저 설정
+optimizer:
+  type: sgd
+  momentum: 0.9
+  weight_decay: 0.0005
+
+# 스케줄러 설정
+scheduler:
+  type: cosine
+  T_max: 50
+
+# 데이터 증강
+augmentation:
+  random_crop:
+    size: 32
+    padding: 4
+  random_horizontal_flip: true
+  normalize:
+    mean: [0.4914, 0.4822, 0.4465]
+    std: [0.2023, 0.1994, 0.2010]
+
+# 로깅
+log_interval: 100
+save_interval: 10
+tensorboard: true
