@@ -1,0 +1,36 @@
+{
+  "tier": "Tier2",
+  "created_at": "2025-11-18T16:53:08.109431",
+  "tasks": [
+    {
+      "id": 1,
+      "description": "데이터셋 전처리 및 특성 엔지니어링",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 2,
+      "description": "여러 분류 모델 학습 및 비교",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 3,
+      "description": "하이퍼파라미터 튜닝",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 4,
+      "description": "앙상블 모델 구축 (Random Forest, Gradient Boosting)",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 5,
+      "description": "모델 해석 및 평가",
+      "completed": false,
+      "subtasks": []
+    }
+  ]
+}

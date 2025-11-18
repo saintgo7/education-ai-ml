@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-18T16:53:37.989830",
+  "total_modules": 100,
+  "evaluated": 10,
+  "sample_scores": [
+    {
+      "module_id": 1,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 2,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 3,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 4,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 5,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 6,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 7,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 8,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 9,
+      "percentage": 33.33333333333333
+    },
+    {
+      "module_id": 10,
+      "percentage": 33.33333333333333
+    }
+  ]
+}

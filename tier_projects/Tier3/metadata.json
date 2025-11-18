@@ -1,0 +1,44 @@
+{
+  "tier": "Tier3",
+  "name": "딥러닝 프로젝트 - 이미지 분류 신경망",
+  "english_name": "Tier 3 Integration Project - Image Classification Neural Network",
+  "description": "CNN, RNN, Transformer를 활용한 다중 이미지 분류",
+  "modules": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "n_modules": 20,
+  "objectives": [
+    "신경망 설계 및 학습",
+    "CNN 아키텍처 이해",
+    "시계열 데이터 처리",
+    "Transformer 활용"
+  ],
+  "tasks": [
+    "기본 신경망 구현 (NumPy에서)",
+    "CNN을 이용한 이미지 분류",
+    "전이학습을 이용한 성능 개선",
+    "앙상블 딥러닝 모델 구축"
+  ],
+  "created_at": "2025-11-18T16:53:08.111001",
+  "status": "in_progress",
+  "progress": 0
+}

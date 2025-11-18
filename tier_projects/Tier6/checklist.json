@@ -1,0 +1,30 @@
+{
+  "tier": "Tier6",
+  "created_at": "2025-11-18T16:53:08.117683",
+  "tasks": [
+    {
+      "id": 1,
+      "description": "간단한 게임에서 Q-Learning 구현",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 2,
+      "description": "DQN으로 복잡한 게임 학습",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 3,
+      "description": "Policy Gradient 방법 비교",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 4,
+      "description": "멀티 에이전트 강화학습",
+      "completed": false,
+      "subtasks": []
+    }
+  ]
+}

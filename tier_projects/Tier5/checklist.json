@@ -1,0 +1,30 @@
+{
+  "tier": "Tier5",
+  "created_at": "2025-11-18T16:53:08.115358",
+  "tasks": [
+    {
+      "id": 1,
+      "description": "이미지 특성 검출",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 2,
+      "description": "YOLO를 이용한 실시간 객체 탐지",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 3,
+      "description": "인스턴스 분할 구현",
+      "completed": false,
+      "subtasks": []
+    },
+    {
+      "id": 4,
+      "description": "얼굴 인식 시스템 구축",
+      "completed": false,
+      "subtasks": []
+    }
+  ]
+}

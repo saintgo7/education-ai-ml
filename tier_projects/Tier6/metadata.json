@@ -1,0 +1,34 @@
+{
+  "tier": "Tier6",
+  "name": "강화학습 프로젝트 - 게임 AI 구축",
+  "english_name": "Tier 6 Integration Project - Game AI Development",
+  "description": "Q-Learning, DQN, Policy Gradient를 이용한 게임 AI",
+  "modules": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+  ],
+  "n_modules": 10,
+  "objectives": [
+    "RL 기초 개념",
+    "Q-Learning 구현",
+    "심층 강화학습",
+    "정책 경사 방법"
+  ],
+  "tasks": [
+    "간단한 게임에서 Q-Learning 구현",
+    "DQN으로 복잡한 게임 학습",
+    "Policy Gradient 방법 비교",
+    "멀티 에이전트 강화학습"
+  ],
+  "created_at": "2025-11-18T16:53:08.117377",
+  "status": "in_progress",
+  "progress": 0
+}

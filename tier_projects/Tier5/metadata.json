@@ -1,0 +1,39 @@
+{
+  "tier": "Tier5",
+  "name": "컴퓨터 비전 프로젝트 - 객체 탐지 시스템",
+  "english_name": "Tier 5 Integration Project - Object Detection System",
+  "description": "YOLO, R-CNN, 분할을 이용한 객체 탐지",
+  "modules": [
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "n_modules": 15,
+  "objectives": [
+    "이미지 처리 기초",
+    "객체 탐지 알고리즘",
+    "이미지 분할",
+    "얼굴/자세 인식"
+  ],
+  "tasks": [
+    "이미지 특성 검출",
+    "YOLO를 이용한 실시간 객체 탐지",
+    "인스턴스 분할 구현",
+    "얼굴 인식 시스템 구축"
+  ],
+  "created_at": "2025-11-18T16:53:08.115022",
+  "status": "in_progress",
+  "progress": 0
+}

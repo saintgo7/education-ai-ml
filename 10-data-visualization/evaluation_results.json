@@ -1,0 +1,62 @@
+{
+  "module_id": 10,
+  "timestamp": "2025-11-18T16:53:38.019515",
+  "total_questions": 5,
+  "answered": 5,
+  "correct": 2,
+  "score": 20,
+  "details": [
+    {
+      "exercise_id": 1,
+      "question": "Module 10의 핵심 개념은 무엇인가?",
+      "type": "multiple_choice",
+      "status": "correct",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "points": 10,
+      "max_points": 10
+    },
+    {
+      "exercise_id": 2,
+      "question": "Module 10의 주요 응용은?",
+      "type": "multiple_choice",
+      "status": "correct",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "points": 10,
+      "max_points": 10
+    },
+    {
+      "exercise_id": 3,
+      "question": "Module 10의 장점 3가지를 설명하시오",
+      "type": "short_answer",
+      "status": "incorrect",
+      "user_answer": "Sample answer",
+      "keywords_found": 0,
+      "total_keywords": 3,
+      "points": 0,
+      "max_points": 10
+    },
+    {
+      "exercise_id": 4,
+      "question": "주어진 데이터에 Module 10을/를 적용하는 코드를 작성하시오",
+      "type": "coding",
+      "status": "pending_review",
+      "user_answer": "Sample answer",
+      "max_points": 20,
+      "note": "Manual grading required"
+    },
+    {
+      "exercise_id": 5,
+      "question": "Module 10과 기존 방법의 차이점을 논의하시오",
+      "type": "essay",
+      "status": "pending_review",
+      "user_answer": "Sample answer",
+      "max_points": 10,
+      "note": "Manual grading required"
+    }
+  ],
+  "accuracy": 40.0,
+  "max_score": 60,
+  "percentage": 33.33333333333333
+}

@@ -1,0 +1,14 @@
+{
+  "module_id": 16,
+  "n_samples": 100,
+  "n_features": 5,
+  "shape": [
+    100,
+    5
+  ],
+  "class_distribution": {
+    "class_0": 48,
+    "class_1": 52
+  },
+  "created_at": "2025-11-18T16:52:38.399623"
+}

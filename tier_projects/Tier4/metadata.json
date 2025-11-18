@@ -1,0 +1,39 @@
+{
+  "tier": "Tier4",
+  "name": "NLP 프로젝트 - 감정 분석 및 텍스트 분류",
+  "english_name": "Tier 4 Integration Project - Sentiment Analysis & Text Classification",
+  "description": "단어 임베딩, Seq2Seq, BERT를 이용한 감정 분석",
+  "modules": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+  ],
+  "n_modules": 15,
+  "objectives": [
+    "텍스트 전처리",
+    "단어 임베딩 활용",
+    "Transformer 기반 모델 사용",
+    "언어 모델 미세조정"
+  ],
+  "tasks": [
+    "텍스트 데이터 전처리 및 토큰화",
+    "Word2Vec 임베딩 학습",
+    "사전학습 모델 미세조정",
+    "감정 분류 모델 평가"
+  ],
+  "created_at": "2025-11-18T16:53:08.112946",
+  "status": "in_progress",
+  "progress": 0
+}
