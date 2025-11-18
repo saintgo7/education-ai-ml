@@ -1,0 +1,18 @@
+{
+  "id": "cloud_098",
+  "name": "Chaos Engineering",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Gremlin",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

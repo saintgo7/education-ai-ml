@@ -1,0 +1,18 @@
+{
+  "id": "web_067",
+  "name": "Sleep Tracking Web",
+  "domain": "Web Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "React/Firebase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

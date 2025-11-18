@@ -1,0 +1,18 @@
+{
+  "id": "data_100",
+  "name": "Data Innovation",
+  "domain": "Data Engineering",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Experimental",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

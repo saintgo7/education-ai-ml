@@ -1,0 +1,18 @@
+{
+  "id": "web_070",
+  "name": "Workout Progress Tracker",
+  "domain": "Web Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Vue.js/Firebase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "web_082",
+  "name": "Product Launch Page",
+  "domain": "Web Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Next.js/Tailwind",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

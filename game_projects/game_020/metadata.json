@@ -1,0 +1,18 @@
+{
+  "id": "game_020",
+  "name": "Real-Time Strategy",
+  "domain": "Game Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Unity",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

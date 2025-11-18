@@ -1,0 +1,18 @@
+{
+  "id": "cloud_062",
+  "name": "Resource Tagging",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "AWS Tags",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

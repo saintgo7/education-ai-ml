@@ -1,0 +1,18 @@
+{
+  "id": "sys_049",
+  "name": "Data Logging",
+  "domain": "Systems & Embedded",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "EEPROM",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

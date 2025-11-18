@@ -1,0 +1,18 @@
+{
+  "id": "cloud_009",
+  "name": "Firewall Rules",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Security Groups",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

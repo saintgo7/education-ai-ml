@@ -1,0 +1,18 @@
+{
+  "id": "web_018",
+  "name": "Real-time Notification System",
+  "domain": "Web Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Node.js/WebSocket",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

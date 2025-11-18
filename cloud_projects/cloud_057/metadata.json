@@ -1,0 +1,18 @@
+{
+  "id": "cloud_057",
+  "name": "Replication Setup",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "S3 Replication",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

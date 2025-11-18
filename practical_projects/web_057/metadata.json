@@ -1,0 +1,18 @@
+{
+  "id": "web_057",
+  "name": "Habit Tracker",
+  "domain": "Web Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "React/Supabase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

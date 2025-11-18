@@ -1,0 +1,18 @@
+{
+  "id": "cloud_044",
+  "name": "Distributed Tracing",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Jaeger",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

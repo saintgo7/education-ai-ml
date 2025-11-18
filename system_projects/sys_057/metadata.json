@@ -1,0 +1,18 @@
+{
+  "id": "sys_057",
+  "name": "Button Debouncing",
+  "domain": "Systems & Embedded",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Embedded C",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

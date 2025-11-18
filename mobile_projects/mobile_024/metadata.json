@@ -1,0 +1,18 @@
+{
+  "id": "mobile_024",
+  "name": "Weather Forecast",
+  "domain": "Mobile Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Flutter/Provider",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

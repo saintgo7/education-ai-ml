@@ -1,0 +1,18 @@
+{
+  "id": "cloud_060",
+  "name": "RTO/RPO Planning",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "DR Strategy",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

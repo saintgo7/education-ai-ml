@@ -1,0 +1,18 @@
+{
+  "id": "web_034",
+  "name": "Travel Planning App",
+  "domain": "Web Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Next.js/Mapbox",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

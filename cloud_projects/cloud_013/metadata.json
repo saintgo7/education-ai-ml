@@ -1,0 +1,18 @@
+{
+  "id": "cloud_013",
+  "name": "Multi-cloud Strategy",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Custom",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

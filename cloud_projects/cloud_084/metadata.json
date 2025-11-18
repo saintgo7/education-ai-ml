@@ -1,0 +1,18 @@
+{
+  "id": "cloud_084",
+  "name": "Data Warehouse",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Redshift",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

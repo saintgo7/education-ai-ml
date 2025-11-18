@@ -1,0 +1,18 @@
+{
+  "id": "sys_027",
+  "name": "Robot Arm",
+  "domain": "Systems & Embedded",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Robotic Arm Kit",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

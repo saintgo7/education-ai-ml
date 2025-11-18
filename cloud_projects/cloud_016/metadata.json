@@ -1,0 +1,18 @@
+{
+  "id": "cloud_016",
+  "name": "Backup Strategy",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "AWS Backup",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

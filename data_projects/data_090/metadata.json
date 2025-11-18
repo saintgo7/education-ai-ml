@@ -1,0 +1,18 @@
+{
+  "id": "data_090",
+  "name": "Data Masking",
+  "domain": "Data Engineering",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Python",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

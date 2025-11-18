@@ -1,0 +1,18 @@
+{
+  "id": "mobile_013",
+  "name": "Social Media App",
+  "domain": "Mobile Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "React Native/Firebase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

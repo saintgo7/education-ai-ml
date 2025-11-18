@@ -1,0 +1,18 @@
+{
+  "id": "mobile_041",
+  "name": "News Aggregator",
+  "domain": "Mobile Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "React Native",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

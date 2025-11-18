@@ -1,0 +1,18 @@
+{
+  "id": "data_058",
+  "name": "Event Processing",
+  "domain": "Data Engineering",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Kafka Streams",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

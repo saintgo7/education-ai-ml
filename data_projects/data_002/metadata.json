@@ -1,0 +1,18 @@
+{
+  "id": "data_002",
+  "name": "JSON Processing",
+  "domain": "Data Engineering",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Python",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

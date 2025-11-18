@@ -1,0 +1,18 @@
+{
+  "id": "data_098",
+  "name": "Load Testing",
+  "domain": "Data Engineering",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Apache JMeter",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

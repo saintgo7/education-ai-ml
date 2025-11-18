@@ -1,0 +1,18 @@
+{
+  "id": "data_051",
+  "name": "Feature Store",
+  "domain": "Data Engineering",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Feast",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

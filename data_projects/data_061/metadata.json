@@ -1,0 +1,18 @@
+{
+  "id": "data_061",
+  "name": "Lambda Architecture",
+  "domain": "Data Engineering",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Spark + Kafka",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

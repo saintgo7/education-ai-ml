@@ -1,0 +1,18 @@
+{
+  "id": "data_027",
+  "name": "Feature Engineering",
+  "domain": "Data Engineering",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Pandas",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

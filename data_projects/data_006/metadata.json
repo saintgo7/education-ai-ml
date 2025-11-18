@@ -1,0 +1,18 @@
+{
+  "id": "data_006",
+  "name": "Web Scraping",
+  "domain": "Data Engineering",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Beautiful Soup",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

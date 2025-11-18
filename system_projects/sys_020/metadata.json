@@ -1,0 +1,18 @@
+{
+  "id": "sys_020",
+  "name": "Real-Time OS",
+  "domain": "Systems & Embedded",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "FreeRTOS",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

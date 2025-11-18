@@ -1,0 +1,18 @@
+{
+  "id": "web_007",
+  "name": "Movie Search App",
+  "domain": "Web Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "JavaScript/REST API",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

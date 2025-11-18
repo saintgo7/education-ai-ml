@@ -1,0 +1,18 @@
+{
+  "id": "sys_082",
+  "name": "Cryptography Module",
+  "domain": "Systems & Embedded",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Embedded C",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

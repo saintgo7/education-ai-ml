@@ -1,0 +1,18 @@
+{
+  "id": "web_019",
+  "name": "API Documentation Site",
+  "domain": "Web Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Next.js/MDX",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

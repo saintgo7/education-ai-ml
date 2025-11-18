@@ -1,0 +1,18 @@
+{
+  "id": "data_013",
+  "name": "Time Series Data",
+  "domain": "Data Engineering",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "InfluxDB",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

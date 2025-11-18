@@ -1,0 +1,18 @@
+{
+  "id": "data_037",
+  "name": "Correlation Analysis",
+  "domain": "Data Engineering",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Pandas",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

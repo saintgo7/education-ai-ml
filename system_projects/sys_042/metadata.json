@@ -1,0 +1,18 @@
+{
+  "id": "sys_042",
+  "name": "WiFi Module",
+  "domain": "Systems & Embedded",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Arduino",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

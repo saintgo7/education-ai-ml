@@ -1,0 +1,18 @@
+{
+  "id": "game_044",
+  "name": "Quiz Master",
+  "domain": "Game Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Godot",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

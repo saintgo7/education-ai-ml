@@ -1,0 +1,18 @@
+{
+  "id": "sys_017",
+  "name": "ADC Sampling",
+  "domain": "Systems & Embedded",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Microcontroller",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

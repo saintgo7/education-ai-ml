@@ -1,0 +1,18 @@
+{
+  "id": "web_089",
+  "name": "Memory Game Collection",
+  "domain": "Web Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "React/JavaScript",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

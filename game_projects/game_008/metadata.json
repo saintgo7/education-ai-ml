@@ -1,0 +1,18 @@
+{
+  "id": "game_008",
+  "name": "Platformer Game",
+  "domain": "Game Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Unity/C#",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

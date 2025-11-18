@@ -1,0 +1,18 @@
+{
+  "id": "data_065",
+  "name": "Job Scheduling",
+  "domain": "Data Engineering",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Cron/Scheduler",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

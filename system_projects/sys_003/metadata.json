@@ -1,0 +1,18 @@
+{
+  "id": "sys_003",
+  "name": "Process Management",
+  "domain": "Systems & Embedded",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Unix",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cloud_068",
+  "name": "Budget Alerts",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Budgets",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

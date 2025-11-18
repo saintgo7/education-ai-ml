@@ -1,0 +1,18 @@
+{
+  "id": "data_078",
+  "name": "Testing Automation",
+  "domain": "Data Engineering",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Pytest",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

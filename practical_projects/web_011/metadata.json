@@ -1,0 +1,18 @@
+{
+  "id": "web_011",
+  "name": "Chat Application",
+  "domain": "Web Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Node.js/Socket.io",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

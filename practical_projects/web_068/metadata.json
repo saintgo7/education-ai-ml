@@ -1,0 +1,18 @@
+{
+  "id": "web_068",
+  "name": "Time Zone Converter",
+  "domain": "Web Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "JavaScript/Moment.js",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "game_099",
+  "name": "Shooting Range",
+  "domain": "Game Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Unity",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

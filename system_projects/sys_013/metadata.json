@@ -1,0 +1,18 @@
+{
+  "id": "sys_013",
+  "name": "PWM Control",
+  "domain": "Systems & Embedded",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Microcontroller",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

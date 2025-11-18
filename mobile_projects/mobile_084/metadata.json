@@ -1,0 +1,18 @@
+{
+  "id": "mobile_084",
+  "name": "Vision Recognition",
+  "domain": "Mobile Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Flutter/ML Kit",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

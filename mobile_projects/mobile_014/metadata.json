@@ -1,0 +1,18 @@
+{
+  "id": "mobile_014",
+  "name": "Chat Application",
+  "domain": "Mobile Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Flutter/Firebase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

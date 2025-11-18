@@ -1,0 +1,18 @@
+{
+  "id": "data_028",
+  "name": "Data Aggregation",
+  "domain": "Data Engineering",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "SQL",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

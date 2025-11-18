@@ -1,0 +1,18 @@
+{
+  "id": "cloud_003",
+  "name": "Database as Service",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Azure",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

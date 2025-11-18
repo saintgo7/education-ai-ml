@@ -1,0 +1,18 @@
+{
+  "id": "mobile_035",
+  "name": "News Reader",
+  "domain": "Mobile Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "React Native",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

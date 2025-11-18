@@ -1,0 +1,18 @@
+{
+  "id": "web_060",
+  "name": "Job Matching Algorithm",
+  "domain": "Web Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Flask/React",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

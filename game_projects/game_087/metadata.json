@@ -1,0 +1,18 @@
+{
+  "id": "game_087",
+  "name": "MOBA Game",
+  "domain": "Game Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Unity",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

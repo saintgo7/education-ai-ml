@@ -1,0 +1,18 @@
+{
+  "id": "web_036",
+  "name": "Forum Application",
+  "domain": "Web Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Laravel/Vue",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

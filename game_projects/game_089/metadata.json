@@ -1,0 +1,18 @@
+{
+  "id": "game_089",
+  "name": "Co-op Dungeon",
+  "domain": "Game Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Phaser",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cloud_002",
+  "name": "Cloud Storage",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "GCP",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mobile_020",
+  "name": "Real Estate App",
+  "domain": "Mobile Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Flutter",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mobile_072",
+  "name": "Virtual Try-on",
+  "domain": "Mobile Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Flutter/ARCore",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mobile_054",
+  "name": "Flashcard App",
+  "domain": "Mobile Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Flutter",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

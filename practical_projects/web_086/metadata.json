@@ -1,0 +1,18 @@
+{
+  "id": "web_086",
+  "name": "Weight Loss Tracker",
+  "domain": "Web Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Vue.js/Firebase",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

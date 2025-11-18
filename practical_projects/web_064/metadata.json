@@ -1,0 +1,18 @@
+{
+  "id": "web_064",
+  "name": "Feedback Collection Tool",
+  "domain": "Web Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Next.js/MongoDB",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

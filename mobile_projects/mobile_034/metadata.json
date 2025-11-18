@@ -1,0 +1,18 @@
+{
+  "id": "mobile_034",
+  "name": "Language Learning",
+  "domain": "Mobile Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Flutter",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

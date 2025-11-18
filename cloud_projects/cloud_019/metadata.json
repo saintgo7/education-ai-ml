@@ -1,0 +1,18 @@
+{
+  "id": "cloud_019",
+  "name": "Container Registry",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "ECR",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

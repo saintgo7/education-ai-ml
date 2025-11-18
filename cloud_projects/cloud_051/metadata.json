@@ -1,0 +1,18 @@
+{
+  "id": "cloud_051",
+  "name": "Identity Management",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "IAM",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

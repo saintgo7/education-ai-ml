@@ -1,0 +1,18 @@
+{
+  "id": "mobile_079",
+  "name": "Proximity Alert",
+  "domain": "Mobile Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "React Native",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

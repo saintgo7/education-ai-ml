@@ -1,0 +1,18 @@
+{
+  "id": "game_056",
+  "name": "Mystery Game",
+  "domain": "Game Development",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Godot",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

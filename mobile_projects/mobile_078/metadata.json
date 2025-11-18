@@ -1,0 +1,18 @@
+{
+  "id": "mobile_078",
+  "name": "Map Navigation",
+  "domain": "Mobile Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Flutter/Google Maps",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

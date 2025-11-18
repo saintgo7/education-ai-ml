@@ -1,0 +1,18 @@
+{
+  "id": "game_004",
+  "name": "Tic Tac Toe",
+  "domain": "Game Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "JavaScript/Canvas",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

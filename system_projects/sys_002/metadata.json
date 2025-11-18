@@ -1,0 +1,18 @@
+{
+  "id": "sys_002",
+  "name": "File I/O Operations",
+  "domain": "Systems & Embedded",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "C",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

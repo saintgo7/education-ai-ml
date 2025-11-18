@@ -1,0 +1,18 @@
+{
+  "id": "game_080",
+  "name": "Connect Four",
+  "domain": "Game Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Phaser",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

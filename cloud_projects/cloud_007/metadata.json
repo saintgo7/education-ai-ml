@@ -1,0 +1,18 @@
+{
+  "id": "cloud_007",
+  "name": "DNS Management",
+  "domain": "Cloud & DevOps",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Route 53",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

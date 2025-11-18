@@ -1,0 +1,18 @@
+{
+  "id": "sys_096",
+  "name": "Driver Development",
+  "domain": "Systems & Embedded",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "C",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

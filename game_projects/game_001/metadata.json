@@ -1,0 +1,18 @@
+{
+  "id": "game_001",
+  "name": "Pong Game",
+  "domain": "Game Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Pygame",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "game_027",
+  "name": "Cooking Game",
+  "domain": "Game Development",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Phaser",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "game_052",
+  "name": "Text Adventure",
+  "domain": "Game Development",
+  "difficulty": "Intermediate",
+  "duration_weeks": 4,
+  "technology": "Pygame",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

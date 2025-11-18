@@ -1,0 +1,18 @@
+{
+  "id": "sys_034",
+  "name": "Distance Measurement",
+  "domain": "Systems & Embedded",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Ultrasonic Sensor",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

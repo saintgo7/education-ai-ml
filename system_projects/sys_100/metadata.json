@@ -1,0 +1,18 @@
+{
+  "id": "sys_100",
+  "name": "Custom Board Design",
+  "domain": "Systems & Embedded",
+  "difficulty": "Advanced",
+  "duration_weeks": 6,
+  "technology": "Hardware Design",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}

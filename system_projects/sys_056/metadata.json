@@ -1,0 +1,18 @@
+{
+  "id": "sys_056",
+  "name": "Keyboard Input",
+  "domain": "Systems & Embedded",
+  "difficulty": "Beginner",
+  "duration_weeks": 2,
+  "technology": "Arduino",
+  "skills": [
+    "Implementation",
+    "Problem Solving",
+    "Best Practices"
+  ],
+  "deliverables": [
+    "Code",
+    "Documentation",
+    "Tests"
+  ]
+}
